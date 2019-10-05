@@ -1,0 +1,25 @@
+﻿{
+  "pollRate": 1000,
+  "micThreshold": 15,
+  "micSensitivity": 175,
+  "vendorID": 121,
+  "productID": 6211,
+  "vJoyID" :  1,
+  "output": "vjoy",
+  "keyboardMapping": {
+    "topLeft": "Q",
+    "topRight": "P",
+    "botLeft": "Z",
+    "botRight": "M",
+    "mic": "Space",
+    "start": "Escape"
+  },
+  "vJoyMapping": {
+    "topLeft": "1",
+    "topRight": "2",
+    "botLeft": "3",
+    "botRight": "4",
+    "mic": "X",
+    "start": "5"
+  }
+}
