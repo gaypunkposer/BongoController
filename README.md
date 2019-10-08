@@ -1,12 +1,12 @@
-##Bongo Controller 
+##B ongo Controller 
 
 Reads in input from the Gamecube DK Bongo controllers, outputs through either the keyboard or vJoy. 
 The bongos must be connected via a GC Adapter that supports HID output.
 
-#Usage
+# Usage
 Bongos.exe config.json
 
-#Config format
+# Config format
 "pollRate" - how many times per second should the input be polled
 "micThreshold" - the threshold, above which the microphone mapping will be triggered
 "micSensitivity" - a multipler dictating the sensitivity of the microphone
