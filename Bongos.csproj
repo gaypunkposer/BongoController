@@ -10,7 +10,7 @@
     <PackageReference Include="HidLibrary" Version="3.2.46" />
     <PackageReference Include="InputSimulator" Version="1.0.4" />
     <PackageReference Include="Json.NET" Version="1.0.16" />
-    <PackageReference Include="Newtonsoft.Json" Version="12.0.2" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
   </ItemGroup>
 
   <ItemGroup>
